@@ -1,4 +1,4 @@
-﻿# ChatGemini
+
 # ChatGemini
 
 ChatGemini is a web application that allows users to interact with the powerful Gemini AI model through a user-friendly interface. It facilitates natural language communication and exploration of AI capabilities.
